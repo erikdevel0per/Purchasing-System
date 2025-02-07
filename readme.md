@@ -1,0 +1,1 @@
+This project implements a complete e-commerce system with order processing, payment integration, and user and product management functionalities. The system also has a graphical interface made with JavaFX, allowing the user to enter order details and process payments interactively.

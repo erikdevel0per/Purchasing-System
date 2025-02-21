@@ -1,4 +1,4 @@
-# Sistema de Compras
+# Sistema de Pagamento
 
 ## Descrição
 Este projeto implementa um sistema completo de e-commerce com processamento de pedidos, integração de pagamentos e funcionalidades de gerenciamento de usuários e produtos. O sistema também possui uma interface gráfica feita em JavaFX, permitindo ao usuário inserir detalhes do pedido e processar pagamentos de forma interativa e dinâmica.

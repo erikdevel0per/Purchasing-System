@@ -71,3 +71,5 @@ Mensagens no Console:
 - O usuário cria um pedido, que exibe o status "Pendente".
 - O usuário processa o pagamento, e o status do pedido é alterado para "Pago", com a atualização visível na interface.
 - O efeito visual de fade é utilizado para destacar essas mudanças de status.
+
+## **Muito Obrigado pela sua atenção!**

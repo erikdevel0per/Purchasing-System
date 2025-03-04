@@ -60,7 +60,7 @@ Processamento de Pagamento:
 - Aplica uma transição de fade à label do status, indicando que o pagamento foi realizado com sucesso.
 
 Interatividade e Efeitos:
-- O sistema utiliza animações (fade) para tornar a interface mais fluida e interativa. O status da transação (pedido criado ou pagamento realizado) aparece suavemente na tela por meio de um efeito visual.
+- O sistema utiliza animações (``fade``) para tornar a interface mais fluida e interativa. O status da transação (pedido criado ou pagamento realizado) aparece suavemente na tela por meio de um efeito visual.
 
 Mensagens no Console:
 - Quando um pedido é criado, uma mensagem como "Pedido criado com status: Pendente" é exibida.
